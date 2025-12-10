@@ -99,6 +99,5 @@ To add more workers:
 
 ## Useful Links
 
-- Orkes Documentation: https://orkes.io/content/
-- Java Conductor SDK: https://github.com/conductor-sdk/conductor-java
-- Orkes Cloud Console: https://console.orkes.io
+- Orkes Documentation: https://orkes.io/content/sdks/java
+- Java Conductor SDK: https://github.com/conductor-oss/java-sdk
